@@ -6,3 +6,5 @@ Also incorporates a resolver interface circuit to allow use of permanent magnet 
 Files in DesignsparkPCB v8.0 format.
 
 16/08/18 : V1 design released. Totally untested. It probably won't work so don't build it.
+
+28/10/18 : It works. https://www.youtube.com/watch?v=Xm8LXupyk7E
